@@ -1,4 +1,4 @@
-/* Questions What year saw the highest immigrants obtain permanent resident status? */ 
+/* What year saw the highest immigrants obtain permanent resident status? */ 
 
 SELECT 
   year, 
