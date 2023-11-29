@@ -1,5 +1,4 @@
 /* What year saw the highest immigrants obtain permanent resident status? */ 
-
 SELECT 
   year, 
   Immigrants_Obtaining_Lawful_Permanent_Resident_Status
